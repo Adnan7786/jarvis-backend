@@ -1,0 +1,8 @@
+intents:
+  - name: greeting
+    responses:
+      - "Hello! How can I help you today?"
+  - name: farewell
+    responses:
+      - "Goodbye! Feel free to come back anytime."
+
